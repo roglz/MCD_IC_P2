@@ -1,5 +1,9 @@
 datasets/
 datasets_zip/
+1_cleaning.ipynb
+0_collectionipynb
+dash.ipynb
+KPIs.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
