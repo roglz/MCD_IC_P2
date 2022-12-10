@@ -1,0 +1,177 @@
+/*
+PALETTE
+2C3639
+3F4E4F
+A27B5C
+DCD7C9
+...
+2887A1
+*/
+
+body {
+    background-color:#DCD7C9;
+    font-family:MS Gothic;
+}
+
+h1 {
+    font-size: 200%;
+    text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.top_bar {
+  position: fixed;  
+  height: 92%; width: 20%;
+  top: 0; left: 0;
+  background-color:#A27B5C;
+  color:#DCD7C9;
+  text-align: center;
+  padding-top: 3%;
+}
+
+.tabs_div {
+  position: fixed;
+  height: 8%; width: 45%;
+  top: 2%; left: 21%;
+  background-color: #2C3639;
+  color:blue
+}
+
+.map_div {
+  height: 72%; width: 45%;
+  position: fixed;
+  top: 10%; left: 21%;
+  background-color:#FFFFFF;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.slider_div {
+  height: 8%; width: 45%;
+  position: fixed;
+  bottom: 10%; left: 21%;
+  background-color: #3F4E4F;
+  padding-left: 0%;
+  padding-right: 0%;
+  color:blue
+}
+
+.son_ddown_div {
+  height: 12%; width: 32%;
+  position: fixed;
+  top: 2%; right: 1%;
+  background-color: #3F4E4F;
+  padding: 0%;
+}
+
+.del_ddown_div {
+  height: 12%; width: 32%;
+  position: fixed;
+  top: 16%; right: 1%;
+  background-color: #3F4E4F;
+  padding-left: 0%;
+  padding-right: 0%;
+  color:blue
+}
+
+.son_info_div {
+  height: 60%; width: 32%;
+  position: fixed;
+  bottom: 10%; right: 1%;
+  background-color: #FFFFFF;
+  padding-left: 0%;
+  padding-right: 0%;
+  color:blue
+}
+
+.footer {
+  height: 8%; width: 100%;
+  position: fixed;
+  bottom: 0%; left: 0%;
+  background-color: #000000;
+  color:#DCD7C9
+}
+
+/* DROPDOWN */
+.dd_label {
+  position: absolute;
+  left:15%;
+  top: 0;
+  margin-top: 3%;
+  font-size: 100%;
+  color: #DCD7C9;
+}
+.dd_icon {
+  position: absolute;
+  margin: 2%;
+  left: 0;
+  top: 0;
+  color: #DCD7C9;
+}
+.dropdown {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 85%;
+  margin: 1%;
+}
+.dropdown .Select-control{
+  background-color: #FFFFFF;
+  font-size: 120%;
+}
+.dropdown .Select-menu-outer{
+  background-color: #FFFFFF;
+  color: #2C3639;
+}
+.dropdown .Select-value{
+  background-color: #FFFFFF;
+  color: #DCD7C9;
+  /* font-size: 14px; */  
+}
+.dropdown .VirtualizedSelectFocusedOption {
+  background-color: #DCD7C9;
+  color: #DCD7C9;
+}
+.dropdown .VirtualizedSelectOption  {
+  font-size: 120%;
+  color: #2C3639;
+}
+
+
+/* SLIDER */
+
+.slider {
+  position: absolute;
+  top: 10%; left: 0%;
+  bottom: 10%; right: 0%;
+  font-size: 120%;
+}
+.slider .rc-slider-handle  {
+  background-color: #2887A1;
+  border: 0px;
+}
+.slider .rc-slider-track {
+  background-color: #2887A1;
+}
+.slider .rc-slider-dot-active {  
+  border-color: #2887A1;
+  background-color: #2887A1;
+}
+
+
+/*
+
+.dropdown-labels {
+  margin-left: 20px;
+  color: red;
+  font-weight: bold;
+}
+.other-labels {
+  margin-left: 20px;
+  color: green;
+  font-weight: bold;
+}
+*/

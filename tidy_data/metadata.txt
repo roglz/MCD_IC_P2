@@ -1,0 +1,49 @@
+Archivos sobre poblacion, unidades economicas, incidencia delictiva, y geometria de Sonora, Mexico.
+Descargado el 2022-12-05 22:29:09
+
+      Los datos de poblacion corresponden al Censo de Poblacion y Vivienda (2010, 2015, 2020)
+    realizado por INEGI, y cuenta con informacion sobre porcentajes de viviendas de los municipios 
+    de Sonora, poblacion y algunas de sus caracteristicas demograficas, socioeconomicas y culturales.
+
+      Los datos sobre unidades economicas corresponden al Directorio Estadístico Nacional de Unidades
+    Economicas (2015-20219 realizado por INEGI.
+            
+      Los datos de incidencia delictiva por municipio de Mexico (2015-2020) son proporcionados por
+    Secretariado Ejecutivo del Sistema Nacional de Seguridad Publica (SESNSP), y cuenta con
+    informacion sobre de los registros por mes de los delitos: locacion, tipo de delito, subtipo,
+    modalidad y bien juridico que afecta.
+            
+      Los datos georreferenciados de los territorios de Sonora corresponden al Inventario Nacional
+    de Vivienda (INV) realizado por INEGI.
+             
+      Los datos de pobreza corresponden al Consejo Nacional de Evaluacion de la Politica de Desarrollo
+    Social (CONEVAL) y fueron accedidos a traves de DataMexico. Corresponden a censos de 2010, 2015 y 2020.
+            
+Descargado el 2022-12-05 22:29:09
+Nombre: geo_shp
+Desde: https://www.inegi.org.mx/contenidos/masiva/indicadores/inv/2016/26_SCINCE_zip.zip
+
+Nombre: pob_son
+Desde: https://www.inegi.org.mx/contenidos/masiva/indicadores/temas/estructura/estructura_26_xlsx.zip
+
+Nombre: denue15
+Desde: https://www.inegi.org.mx/contenidos/masiva/denue/2015/denue_26_25022015_csv.zip
+
+Nombre: denue16
+Desde: https://www.inegi.org.mx/contenidos/masiva/denue/2016_10/denue_26_1016_csv.zip
+
+Nombre: denue17
+Desde: https://www.inegi.org.mx/contenidos/masiva/denue/2017_11/denue_26_1117_csv.zip
+
+Nombre: denue18
+Desde: https://www.inegi.org.mx/contenidos/masiva/denue/2018_11/denue_26_1118_csv.zip
+
+Nombre: denue19
+Desde: https://www.inegi.org.mx/contenidos/masiva/denue/2019_11/denue_26_1119_csv.zip
+
+Nombre: denue20
+Desde: https://www.inegi.org.mx/contenidos/masiva/denue/2020_11/denue_26_1120_csv.zip
+
+Nombre: crimen_SESNSP
+Desde: https://drive.google.com/u/0/uc?id=1wzbzND3FR_-mUUaH3crre7MlswlLcDB5&export=download&confirm=t&uuid=d0d45b18-6e74-440a-8acb-a46bd9db6146&at=ALAFpqzmlIuR3TqwOes80_SLwuZh:1667361872892
+
